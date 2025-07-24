@@ -1,17 +1,12 @@
 {
   "name": "ai-seo-tool",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@headlessui/react": "^1.7.20",
     "@heroicons/react": "^2.1.1",
